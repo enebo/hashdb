@@ -1,0 +1,2 @@
+class HashDB < Hash
+end
